@@ -1,2 +1,2 @@
-# C_Lex_Python
-Python编写的C语言词法分析器
+# nfa2dfa
+Convert nfa to dfa using C++
